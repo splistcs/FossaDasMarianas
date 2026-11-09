@@ -2,3 +2,6 @@
 	path = FDM/3.Implementacao/FossaDasMarianas-Code
 	url = https://github.com/splistcs/FossaDasMarianas-Code
 	branch = main
+[submodule "FDM/3.Implementacao/FossaDasMarianas-Front"]
+	path = FDM/3.Implementacao/FossaDasMarianas-Front
+	url = https://github.com/splistcs/FossaDasMarianas-Front
